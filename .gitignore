@@ -13,7 +13,6 @@ keypair.json.bak
 ecdh-keypair.json
 device.json
 device.json.bak
-webhooks.json
 tracked-payments.json
 webhook-retries.json
 logs/

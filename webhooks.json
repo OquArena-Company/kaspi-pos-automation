@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://api.oquarena.kz/api/v1/payments/kaspi/webhook",
+    "events": [
+      "payment.success",
+      "payment.failed",
+      "payment.expired",
+      "payment.lost"
+    ],
+    "secret": "6db43dc35fb88952b715f1380b7654579e18696e696bab8615c34e5bba6d8dd4"
+  }
+]
